@@ -1,16 +1,34 @@
-# xylophone
+# Xylophone 
 
-A new Flutter project.
+A Flutter-based xylophone application created as part of a learning project.
 
-## Getting Started
+## Description
+This project is a Flutter application that simulates a xylophone instrument.  
+Each button plays a different musical note when pressed.
 
-This project is a starting point for a Flutter application.
+The project was originally provided as a coursework base and later modified,
+extended, and managed independently using Git and GitHub.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
+- CMake / C++
+- Swift (macOS support)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Learning Objectives
+- Working with Flutter widgets
+- Handling assets and sound playback
+- Using Git & GitHub (clone, commit, push, remote management)
+- Understanding cross-platform Flutter structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributions
+- Original project structure: **Arezo Mansouri**
+- Modifications, version control, and repository management: **Zeynab Nazari**
+
+## How to Run
+1. Install Flutter SDK
+2. Clone the repository
+3. Run:
+   ```bash
+   flutter pub get
+   flutter run
